@@ -1,6 +1,5 @@
 ### Hi there! My name is Akim Mousterou 👋
 
-<!--
 # Open-source RAG for Japanese LLM in low-resource settings
 
 Generative AI for all - Quick implementation with an open-source RAG LlamaIndex and Japanese LLM from ELYZA, Inc. in a low-resource environment over legal documents:
@@ -11,5 +10,4 @@ Generative AI for all - Quick implementation with an open-source RAG LlamaIndex 
 
 - Open-source database PostgreSQL transformed into a vector database by the great library PG Vector
 
-Plus Q&A analysis in Japanese, embedding pricing war, and generative AI strategy of France, USA, and Japan. 
--->
+Plus Q&A analysis in japanese, embedding pricing war, and generative AI strategy of France, USA, and Japan. 
