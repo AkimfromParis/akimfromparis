@@ -23,7 +23,7 @@ Generative AI for all - Quick implementation with an open-source RAG LlamaIndex 
 - Open-source database PostgreSQL transformed into a vector database by the great library **PG Vector**
 - Plus Q&A analysis in Japanese, embedding pricing war, and generative AI strategy of France, USA, and Japan
 
-![](https://github.com/AkimParis/akimparis/blob/main/images/1699969902792.jpg)
+![](https://github.com/AkimParis/akimparis/blob/main/images/gen-ai-llm-japanese.jpg)
 
 ## 💎 [A fine-tuned XLM-Roberta model for NER in the fashion and luxury industry](https://huggingface.co/AkimfromParis/NER-Luxury)
 **NER-Luxury** is a fine-tuned **XLM-Roberta** model for the subtask N.E.R (Named Entity Recognition) in English. NER-Luxury is domain-specific for the fashion and luxury industry with bespoke labels. NER-Luxury is trying to be a bridge between the aesthetic side and the quantitative side of the fashion and luxury industry.
@@ -32,18 +32,26 @@ Generative AI for all - Quick implementation with an open-source RAG LlamaIndex 
 - **32 labels** from companies, groups, and holdings to luxury brands, models, and magazines
 - **Loss: 0.3990, Accuracy: 0.9427, F1: 0.7879**
 
+![](https://github.com/AkimParis/akimparis/blob/main/images/xlmr-ner-luxury.jpg)
+
 ## ⚕️ [English, Japanese, and French Anki flashcards about Natural Language Processing](https://github.com/AkimParis/anki_jap_ai_vocabulary)
 To promote communication between NLP practitioners, I created a **vocabulary deck of 420 technical words** for Anki Pro (learning software based on space repetition) in Japanese, English, and French for natural language processing. 
 
-## 🎼 [Inference testing on earning calls with "Whisper" by Open AI for the Japanese language](https://github.com/AkimParis/asr_whisper_jp/blob/main/Whisper_Uniqlo_Q42022.ipynb)
+![](https://github.com/AkimParis/akimparis/blob/main/images/nlp-dict-en-fr-jp.jpg)
+
+## 🎼 [Inference testing on earning calls with "Whisper" by Open AI for Japanese](https://github.com/AkimParis/asr_whisper_jp/blob/main/Whisper_Uniqlo_Q42022.ipynb)
 - Test on earning calls of Fast Retailing Co., Ltd 2022 with **Whisper OpenAI**
 - **LDA analysis** on shareholder's letter
 - Sustainability as a strategy in fashion and in NLP
+
+  ![](https://github.com/AkimParis/akimparis/blob/main/images/whisper-open-ai-japanese.jpg)
     
 ## 🐈‍⬛ [Preliminary research about Quantum Natural Language Processing for Japanese](https://github.com/AkimParis/quantumNLP_jp/blob/main/Lambeku_QNLP-JP.ipynb)
 - Introduction from **Pregroup Grammar, DisCoCat, to Lambeq**
 - Specificities of the Japanese language
 - Pregroup Grammar in free word order
+
+![](https://github.com/AkimParis/akimparis/blob/main/images/qnlp-japanese.jpg)
 
 ## 📊 [Quantative analysis of Ferragamo - Black Scholes & 🇪🇺 Options in Python & C++](https://github.com/AkimParis/black_scholes/blob/main/tuscan_option.ipynb)
 - Quick financial analysis
