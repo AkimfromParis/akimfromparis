@@ -10,7 +10,7 @@
 
 (ESCPヨーロッパ・ビジネススクール、経営管理修士 | 卒業)
 
-**I have been managing business and digital initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for more than 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.**
+🏁 *I have been managing AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for more than 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.*
 
 ---
 
