@@ -12,6 +12,8 @@
 
 🏁 *I have been managing AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for more than 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.*
 
+Please feel free to connect with me on GitHub, LinkedIn, Discord, or HuggingFace.😃
+
 ---
 
 ## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
@@ -31,7 +33,7 @@ NER-Luxury is a fine-tuned XLM-Roberta model for the subtask N.E.R (Named Entity
 ## ⚕️ [English, Japanese, and French Anki flashcards about Natural Language Processing](https://github.com/AkimParis/anki_jap_ai_vocabulary)
 To promote communication between NLP practitioners, I created a vocabulary deck of 420 technical words for Anki Pro (learning software based on space repetition) in Japanese, English, and French for natural language processing. 
 
-## 🌬️ [Inference testing on the deep learning model "Whisper" by Open AI for the Japanese language](https://github.com/AkimParis/asr_whisper_jp/blob/main/Whisper_Uniqlo_Q42022.ipynb)
+## 🌬️ [Inference testing on earning calls with "Whisper" by Open AI for the Japanese language](https://github.com/AkimParis/asr_whisper_jp/blob/main/Whisper_Uniqlo_Q42022.ipynb)
 - Test on earning calls of Fast Retailing Co., Ltd 2022 with Whisper OpenAI
 - LDA analysis on shareholder's letter
 - Sustainability as a strategy in fashion and in NLP
@@ -40,12 +42,6 @@ To promote communication between NLP practitioners, I created a vocabulary deck 
 - Introduction from Pregroup Grammar, DisCoCat, to Lambeq
 - Specificities of the Japanese language
 - Pregroup Grammar in free word order
-  
-## ⚾ [Named-entity recognition in Japanese with Masayoshi Son (Softbank) on Twitter](https://github.com/AkimParis/ner_japanese/blob/main/Masa_SB.ipynb)
-- Linguistic specificities for NLP in Japanese
-- Leveraging spaCy framework, and Ginza model, and building a custom NER model
-- Insights on Masayoshi Son, Hiroshi Mikitani (Rakuten), and Haruhiko Kuroda (Bank of Japan)
-- Few thoughts on NLP in Japanese
 
 ## 📊 [Quantative analysis of Ferragamo - Black Scholes & 🇪🇺 Options in Python & C++](https://github.com/AkimParis/black_scholes/blob/main/tuscan_option.ipynb)
 - Quick financial analysis
@@ -53,8 +49,25 @@ To promote communication between NLP practitioners, I created a vocabulary deck 
 - Black Scholes for European options
 - Black Scholes (closed form) and Greeks implemented in Python and in C++
 
+## ⚾ [Named-entity recognition in Japanese with Masayoshi Son (Softbank) on Twitter](https://github.com/AkimParis/ner_japanese/blob/main/Masa_SB.ipynb)
+- Linguistic specificities for NLP in Japanese
+- Leveraging spaCy framework, and Ginza model, and building a custom NER model
+- Insights on Masayoshi Son, Hiroshi Mikitani (Rakuten), and Haruhiko Kuroda (Bank of Japan)
+- Few thoughts on NLP in Japanese
+
 ## 🇮🇹 [Forecasting analysis of Moncler s.P.a with Prophet and Bayesian inference](https://github.com/AkimParis/forecast_genius/blob/main/Moncler_Bayesian.ipynb)
 - Naive OLS Linear regression model
 - Facebook's Prophet model
 - Bayesian Linear regression model
 - And a quick introduction to the Hierarchical model
+
+## 🇺🇸 [Meme strategy - Polarity analysis of Elon Musk on Twitter from April to December 2020](https://github.com/AkimParis/nlp_twitter/blob/main/Meme_Strategy.ipynb)
+- Natural Language Processing using NLTK and Vador
+- Time Series for sentiment analysis
+- "Meme" as a marketing or investment strategy?
+- Insights on the human perceptions of leadership on Twitter
+
+## 🩺 [Covid-19 - Financial performance of luxury groups listed in various stock exchanges](https://github.com/AkimParis/luxury_risk/blob/main/Luxury_Risk_2020.ipynb)
+- Financial analysis of luxury groups in 2020 during a high volatility state with the spread of SARS-Cov2
+- Found an increasing correlation on Y-o-Y between luxury groups and the Facebook Inc. ecosystem
+- Conclusion for stakeholders and shareholders
