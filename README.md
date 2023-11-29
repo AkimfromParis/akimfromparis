@@ -4,6 +4,7 @@
 
 **Master's Degree in NLP with Japanese concentration at INALCO**
 (I.N.A.L.C.O 東洋言語文化学院、自然言語処理修士 | 卒業)
+
 **Master's Degree in International Business (EMIB) at ESCP Europe**
 (ESCPヨーロッパ・ビジネススクール、経営管理修士 | 卒業)
 
