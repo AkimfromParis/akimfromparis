@@ -2,7 +2,7 @@
 ### Akim Mousterou
 (ムステロ・アキム)
 
-**Master's Degree in NLP with Japanese concentration at INALCO**
+**Master's degree, in Natural Language Processing - Multilingual engineering, Japanese at I.N.A.L.CO**
 
 (I.N.A.L.C.O 東洋言語文化学院、自然言語処理修士 | 卒業)
 
