@@ -43,17 +43,17 @@ To promote communication between NLP practitioners, I created a vocabulary deck 
   
 ## ⚾ [Named-entity recognition in Japanese with Masayoshi Son (Softbank) on Twitter](https://github.com/AkimParis/ner_japanese/blob/main/Masa_SB.ipynb)
 - Linguistic specificities for NLP in Japanese
-- Leveraging spaCy framework, Ginza model, and building a custom NER model
+- Leveraging spaCy framework, and Ginza model, and building a custom NER model
 - Insights on Masayoshi Son, Hiroshi Mikitani (Rakuten), and Haruhiko Kuroda (Bank of Japan)
 - Few thoughts on NLP in Japanese
 
-## 📊 [Quantative analysis of Ferragamo - Vanilla Black Scholes and Options in Python & C++](https://github.com/AkimParis/black_scholes/blob/main/tuscan_option.ipynb)
+## 📊 [Quantative analysis of Ferragamo - Black Scholes & 🇪🇺 Options in Python & C++](https://github.com/AkimParis/black_scholes/blob/main/tuscan_option.ipynb)
 - Quick financial analysis
-- Why is TikT0k a mistake?
+- Why is TikT0k a mistake in luxury?
 - Black Scholes for European options
 - Black Scholes (closed form) and Greeks implemented in Python and in C++
 
-## 🇮🇹 [Forecasting analysis of Moncler s.P.A with Prophet and Bayesian inference](https://github.com/AkimParis/forecast_genius/blob/main/Moncler_Bayesian.ipynb)
+## 🇮🇹 [Forecasting analysis of Moncler s.P.a with Prophet and Bayesian inference](https://github.com/AkimParis/forecast_genius/blob/main/Moncler_Bayesian.ipynb)
 - Naive OLS Linear regression model
 - Facebook's Prophet model
 - Bayesian Linear regression model
