@@ -1,5 +1,5 @@
 
-### Akim Mousterou 🇫🇷 (ムステロ・アキム)
+### :fr Akim Mousterou (ムステロ・アキム)
 
 💾 & 🇯🇵 **Master's degree, in Natural Language Processing - Multilingual engineering, Japanese at I.N.A.L.CO**
 
@@ -11,9 +11,9 @@
 
 **I have been managing business and digital initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for more than 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.**
 
-🎆
-## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
+---
 
+## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
 Generative AI for all - Quick implementation with an open-source RAG LlamaIndex and Japanese LLM from ELYZA, Inc. in a low-resource environment over legal documents:
 - RAG (retrieval-augmented generation) is LlamaIndex with a vanilla Hybrid search (combining retrieval from both text search and vector search)
 - Japanese LLM (large language model) “ELYZA-japanese-Llama-2-7b-instruct” created by Japanese startup, ELYZA, Inc.
