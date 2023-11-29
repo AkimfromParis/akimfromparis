@@ -1,5 +1,6 @@
 
-### 🇫🇷 Akim Mousterou (ムステロ・アキム)
+### 🇫🇷 Akim Mousterou | ムステロ・アキム
+☕ NLP Engineer from Paris, France | パリ、フランスからの自然言語処理エンジニア
 
 💾 & 🇯🇵 **Master's degree, in Natural Language Processing - Multilingual engineering, Japanese at I.N.A.L.CO**
 
