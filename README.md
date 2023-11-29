@@ -13,16 +13,14 @@
 
 ---
 
-## 🎆
-## [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
+## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
 Generative AI for all - Quick implementation with an open-source RAG LlamaIndex and Japanese LLM from ELYZA, Inc. in a low-resource environment over legal documents:
 - RAG (retrieval-augmented generation) is LlamaIndex with a vanilla Hybrid search (combining retrieval from both text search and vector search)
 - Japanese LLM (large language model) “ELYZA-japanese-Llama-2-7b-instruct” created by Japanese startup, ELYZA, Inc.
 - Open-source database PostgreSQL transformed into a vector database by the great library PG Vector
 Plus Q&A analysis in Japanese, embedding pricing war, and generative AI strategy of France, USA, and Japan. 
 
-## 💎
-## [A fine-tuned XLM-Roberta model for NER in the fashion and luxury industry](https://huggingface.co/AkimfromParis/NER-Luxury)
+## 💎 [A fine-tuned XLM-Roberta model for NER in the fashion and luxury industry](https://huggingface.co/AkimfromParis/NER-Luxury)
 NER-Luxury is a fine-tuned XLM-Roberta model for the subtask N.E.R (Named Entity Recognition) in English. NER-Luxury is domain-specific for the fashion and luxury industry with bespoke labels. NER-Luxury is trying to be a bridge between the aesthetic side and the quantitative side of the fashion and luxury industry.
 
 - 38.063 sentences in English (covering the beauty, fashion, and luxury industries)
