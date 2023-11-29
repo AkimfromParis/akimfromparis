@@ -23,7 +23,7 @@ Generative AI for all - Quick implementation with an open-source RAG LlamaIndex 
 - Open-source database PostgreSQL transformed into a vector database by the great library **PG Vector**
 - Plus Q&A analysis in Japanese, embedding pricing war, and generative AI strategy of France, USA, and Japan
 
-(https://github.com/AkimParis/akimparis/blob/main/images/1699969902792.jpg)
+![](https://github.com/AkimParis/akimparis/blob/main/images/1699969902792.jpg)
 
 ## 💎 [A fine-tuned XLM-Roberta model for NER in the fashion and luxury industry](https://huggingface.co/AkimfromParis/NER-Luxury)
 **NER-Luxury** is a fine-tuned **XLM-Roberta** model for the subtask N.E.R (Named Entity Recognition) in English. NER-Luxury is domain-specific for the fashion and luxury industry with bespoke labels. NER-Luxury is trying to be a bridge between the aesthetic side and the quantitative side of the fashion and luxury industry.
