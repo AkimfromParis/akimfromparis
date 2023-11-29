@@ -61,13 +61,13 @@ To promote communication between NLP practitioners, I created a vocabulary deck 
 - Bayesian Linear regression model
 - And a quick introduction to the Hierarchical model
 
-## 🇺🇸 [Meme strategy - Polarity analysis of Elon Musk on Twitter from April to December 2020](https://github.com/AkimParis/nlp_twitter/blob/main/Meme_Strategy.ipynb)
+## 🇺🇸 [Meme strategy - Polarity analysis of Elon Musk on Twitter from Apr to Dec 2020](https://github.com/AkimParis/nlp_twitter/blob/main/Meme_Strategy.ipynb)
 - Natural Language Processing using NLTK and Vador
 - Time Series for sentiment analysis
 - "Meme" as a marketing or investment strategy?
 - Insights on the human perceptions of leadership on Twitter
 
-## 🩺 [Covid-19 - Financial performance of luxury groups listed in various stock exchanges](https://github.com/AkimParis/luxury_risk/blob/main/Luxury_Risk_2020.ipynb)
+## 🩺 [Covid-19 - Financial performance of listed luxury groups](https://github.com/AkimParis/luxury_risk/blob/main/Luxury_Risk_2020.ipynb)
 - Financial analysis of luxury groups in 2020 during a high volatility state with the spread of SARS-Cov2
 - Found an increasing correlation on Y-o-Y between luxury groups and the Facebook Inc. ecosystem
 - Conclusion for stakeholders and shareholders
