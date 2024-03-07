@@ -16,6 +16,15 @@ Please feel free to connect with me on GitHub, LinkedIn, Discord, or HuggingFace
 
 ---
 
+![](https://github.com/AkimParis/akimparis/blob/main/images/RAG-mixtral-8x7b-financial-reports-2024.jpg)
+
+## 🇪🇺 [Open-source RAG Mixtral experimentation with financial reports in German, French, and Italian](https://github.com/AkimParis/Mixtral_RAG/blob/main/RAG_Mixtral_Europe_Fin_Data.ipynb)
+Libérté, égalité, architecture open-sourcé...  Open-source RAG LlamaIndex and multilingual LLM from Mistral AI in a low-resource environment over financial statements:
+- Vanilla RAG (retrieval-augmented generation) with **LlamaIndex** and **pgvecto.rs** from TensorChord
+- Quantized model of **Mistal8x7B** from Mistral AI and **LlamaCPP** inference tool
+- Test of **BGE-M3** embedding model from BAAI 
+- Plus benchmark in German on ***Porsche AG***, in French on ***Hermès***, and in Italian on ***Brunello Cucinelli***
+
 ## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
 Generative AI for all - Quick implementation with an open-source RAG LlamaIndex and Japanese LLM from ELYZA, Inc. in a low-resource environment over legal documents:
 - RAG (retrieval-augmented generation) is **LlamaIndex** with a vanilla Hybrid search (combining retrieval from both text search and vector search)
