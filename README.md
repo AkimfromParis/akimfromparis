@@ -16,7 +16,7 @@ Please feel free to connect with me on GitHub, LinkedIn, Discord, or HuggingFace
 
 ---
 
-## 🇪🇺 [Open-source RAG Mixtral experimentation with financial reports in German, French, and Italian](https://github.com/AkimParis/Mixtral_RAG/blob/main/RAG_Mixtral_Europe_Fin_Data.ipynb)
+## 🇪🇺 [Open-source RAG Mixtral 8x7B with financial reports in German, French, and Italian](https://github.com/AkimParis/Mixtral_RAG/blob/main/RAG_Mixtral_Europe_Fin_Data.ipynb)
 Libérté, égalité, architecture open-sourcé...  Open-source RAG LlamaIndex and multilingual LLM from Mistral AI in a low-resource environment over financial statements:
 - Vanilla RAG (retrieval-augmented generation) with **LlamaIndex** and **pgvecto.rs** from TensorChord
 - Quantized model of **Mistal8x7B** from Mistral AI and **LlamaCPP** inference tool
