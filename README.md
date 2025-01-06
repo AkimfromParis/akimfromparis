@@ -1,18 +1,26 @@
 
-### 🇫🇷 Akim Mousterou | ムステロ・アキム
-☕ NLP Engineer from Paris, France | パリ、フランスからの自然言語処理エンジニア
+### Akim Mousterou | ムステロ・アキム
+AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語処理エンジニア
 
-💾 & 🇯🇵 Master's degree, in **Natural Language Processing** - Multilingual engineering, Japanese at **I.N.A.L.CO**
+- Master's degree, in **Natural Language Processing** - Multilingual engineering, Japanese at **I.N.A.L.CO**
 
 (I.N.A.L.C.O 東洋言語文化学院、自然言語処理修士 | 卒業)
 
-💵 Master's Degree in **International Business (EMIB)** at **ESCP Europe**
+- Master's Degree in **International Business (EMIB)** at **ESCP Europe**
 
 (ESCPヨーロッパ・ビジネススクール、経営管理修士 | 卒業)
 
-🏁 *I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.*
+*I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.*
 
-Please feel free to connect with me on GitHub, LinkedIn, Discord, or HuggingFace! 😃
+ My research papers on arXiv:
+- [NER-Luxury: Named entity recognition for the fashion and luxury domain](https://arxiv.org/abs/2409.15804)
+   (arXiv:2409.15804 - Submitted on 24 Sep 2024)
+- [LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs](https://arxiv.org/abs/2407.03963)
+   (arXiv:2407.03963 - Submitted on 4 Jul 2024)
+
+Open source contributor to LLM-jp in the "evaluation" working group led by Prof. Miyao (東京大学).
+
+Please feel free to connect with me on GitHub, LinkedIn, or HuggingFace! 😃
 
 ---
 
