@@ -12,7 +12,7 @@ AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語�
 
 *I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, opinion mining, and natural language processing.*
 
- **Research papers on arXiv:**
+ **Research papers:**
 - オープン日本語LLM リーダーボードの構築と評価結果の分析
   
   (Upcoming ANLP 2025 - March 2025 in Nagasaki)
@@ -23,9 +23,9 @@ AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語�
   
    (arXiv:2407.03963 - Submitted on 4 Jul 2024)
 
-Open-source contributor to **LLM-jpv in the "evaluation" working group led by Prof. Yusuke Miyao (東京大学).
+Open-source contributor to ***LLM-jp*** in the "evaluation" working group led by Prof. Yusuke Miyao (University of Tokyo - 東京大学).
 
-Please feel free to connect with me on GitHub, LinkedIn, or HuggingFace! 😃
+Please feel free to connect with me on GitHub, [LinkedIn](https://www.linkedin.com/in/akim-mousterou/), or [HuggingFace](https://huggingface.co/AkimfromParis) ! 😃
 
 ---
 
