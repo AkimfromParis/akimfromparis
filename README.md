@@ -10,15 +10,20 @@ AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語�
 
 (ESCPヨーロッパ・ビジネススクール、経営管理修士 | 卒業)
 
-*I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, and natural language processing.*
+*I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, opinion mining, and natural language processing.*
 
- My research papers on arXiv:
+ **Research papers on arXiv:**
+- オープン日本語LLM リーダーボードの構築と評価結果の分析
+  
+  (Upcoming ANLP 2025 - March 2025 in Nagasaki)
 - [NER-Luxury: Named entity recognition for the fashion and luxury domain](https://arxiv.org/abs/2409.15804)
+  
    (arXiv:2409.15804 - Submitted on 24 Sep 2024)
 - [LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs](https://arxiv.org/abs/2407.03963)
+  
    (arXiv:2407.03963 - Submitted on 4 Jul 2024)
 
-Open source contributor to LLM-jp in the "evaluation" working group led by Prof. Miyao (東京大学).
+Open-source contributor to **LLM-jpv in the "evaluation" working group led by Prof. Yusuke Miyao (東京大学).
 
 Please feel free to connect with me on GitHub, LinkedIn, or HuggingFace! 😃
 
