@@ -2,7 +2,7 @@
 ### Akim Mousterou | ムステロ・アキム
 AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語処理エンジニア
 
-- Master's degree, in **Natural Language Processing** - Multilingual engineering, Japanese at **I.N.A.L.CO**
+- Master's degree, in **Natural Language Processing** - Multilingual engineering, Japanese at **I.N.A.L.C.O**
 
 (I.N.A.L.C.O 東洋言語文化学院、自然言語処理修士 | 卒業)
 
@@ -13,9 +13,9 @@ AI/NLP Engineer from Paris, France | パリ、フランスからの自然言語�
 *I have managed AI and business initiatives for prestigious brands, publishing companies, technology companies, and financial institutions for over 10 years. Born and raised in Paris, I am fluent in French, English, Japanese (JLPT N2), and Spanish. I am passionate about quantitative finance, network effects, opinion mining, and natural language processing.*
 
  **Research papers:**
-- オープン日本語LLM リーダーボードの構築と評価結果の分析
+- [オープン日本語LLM リーダーボードの構築と評価結果の分析](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A2-2.pdf)
   
-  (Upcoming ANLP 2025 - March 2025 in Nagasaki)
+  ("Building Open Japanese LLM Leaderboard and in-depth analysis of primary results" for ANLP 2025 - March 2025 in Nagasaki)
 - [NER-Luxury: Named entity recognition for the fashion and luxury domain](https://arxiv.org/abs/2409.15804)
   
    (arXiv:2409.15804 - Submitted on 24 Sep 2024)
