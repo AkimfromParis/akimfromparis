@@ -29,7 +29,7 @@ Please feel free to connect with me on GitHub, [LinkedIn](https://www.linkedin.c
 
 ---
 
-## 🇪🇺 [Open-source RAG Mixtral 8x7B with financial reports in German, French, and Italian](https://github.com/AkimfromParis/Mixtral_RAG/blob/main/RAG_Mixtral_Europe_Fin_Data.ipynb)
+## 🇪🇺 [Open-source RAG Mixtral 8x7B with financial reports in German, French, and Italian](https://github.com/AkimfromParis/Mixtral_RAG/)
 Libérté, égalité, architecture open-sourcé...  Open-source RAG LlamaIndex and multilingual LLM from Mistral AI in a low-resource environment over financial statements:
 - Vanilla RAG (retrieval-augmented generation) with **LlamaIndex** and **pgvecto.rs** from TensorChord
 - Quantized model of **Mistal8x7B** from Mistral AI and **LlamaCPP** inference tool
@@ -38,7 +38,7 @@ Libérté, égalité, architecture open-sourcé...  Open-source RAG LlamaIndex a
 
 ![](https://github.com/AkimfromParis/akimfromparis/blob/main/images/RAG-mixtral-8x7b-financial-reports-2024.jpg)
 
-## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimParis/RAG-Japanese/blob/main/OpenSource_RAG_LLM_JAP_at_4_Bits.ipynb)
+## 🎆 [Open-source RAG for Japanese LLM in low-resource settings](https://github.com/AkimfromParis/RAG-Japanese/)
 Generative AI for all - Quick implementation with an open-source RAG LlamaIndex and Japanese LLM from ELYZA, Inc. in a low-resource environment over legal documents:
 - RAG (retrieval-augmented generation) is **LlamaIndex** with a vanilla Hybrid search (combining retrieval from both text search and vector search)
 - **Japanese LLM “ELYZA-japanese-Llama-2-7b-instruct”** created by Japanese startup, ELYZA, Inc.
