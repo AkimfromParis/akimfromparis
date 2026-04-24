@@ -28,7 +28,7 @@ Open-source contributor to ***LLM-jp*** in the "evaluation" working group led by
 Please feel free to connect with me on GitHub, [LinkedIn](https://www.linkedin.com/in/akim-mousterou/), or [HuggingFace](https://huggingface.co/AkimfromParis) ! 😃
 
 ---
-## [Agentic RAG for Legal Research & Market Monitoring in the Japanese Financial Market @ Stanford Codex 5 in 2025](https://github.com/AkimfromParis/glycine)
+## [Agentic RAG for Legal Research in the Japanese Financial Market @ Stanford Law Codex 5](https://github.com/AkimfromParis/glycine)
 
 - **End-to-end RAG in English/Japanese with a clear audit trail** for each response, the source as a PDF preview
 - A low resource setup for **Qwen 2.5** at 3B served by **Ollama** with only a CPU from **DigitalOcean** VPS
