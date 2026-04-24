@@ -28,6 +28,14 @@ Open-source contributor to ***LLM-jp*** in the "evaluation" working group led by
 Please feel free to connect with me on GitHub, [LinkedIn](https://www.linkedin.com/in/akim-mousterou/), or [HuggingFace](https://huggingface.co/AkimfromParis) ! 😃
 
 ---
+## [Agentic RAG for Legal Research & Market Monitoring in the Japanese Financial Market @ Stanford Codex 5 in 2025](https://github.com/AkimfromParis/glycine)
+
+- **End-to-end RAG in English/Japanese with a clear audit trail** for each response, the source as a PDF preview
+- A low resource setup for **Qwen 2.5** at 3B served by **Ollama** with only a CPU from **DigitalOcean** VPS
+- Dockerized application is leveraging **LlamaIndex**, **FastAPI**, and **PGvector** for the backend, and for the frontend, **Gradio**
+- Potential update for faster inference with GPU update via **vLLM** 
+
+![](https://github.com/AkimfromParis/akimfromparis/blob/main/images/Codex5-Stanford-001.jpg)
 
 ## 🇪🇺 [Open-source RAG Mixtral 8x7B with financial reports in German, French, and Italian](https://github.com/AkimfromParis/Mixtral_RAG/)
 Libérté, égalité, architecture open-sourcé...  Open-source RAG LlamaIndex and multilingual LLM from Mistral AI in a low-resource environment over financial statements:
